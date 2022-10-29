@@ -106,14 +106,9 @@ body {
     height: 300px;
     width: 290px;
     border-radius: 50%;
-    filter: grayscale(90%);
     cursor: pointer;
-    transition: 400ms;
 
-}
 
-.profile:hover .profile-img {
-    filter: grayscale(0)
 }
 
 .user-name {
